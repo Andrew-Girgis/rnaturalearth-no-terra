@@ -37,7 +37,6 @@ Imports:
     httr (>= 1.1.0),
     jsonlite,
     sf (>= 0.3-4),
-    terra,
     utils (>= 3.2.3)
 Suggests:
     devtools (>= 1.10.0),
