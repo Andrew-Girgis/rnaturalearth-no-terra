@@ -2,6 +2,7 @@
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 <!-- used devtools::build_readme() to update the md -->
 <!-- badges: start -->
+Note: Removed Terra package so it works with shiny apps
 
 [![CRAN
 status](https://www.r-pkg.org/badges/version/rnaturalearth)](https://CRAN.R-project.org/package=rnaturalearth)
